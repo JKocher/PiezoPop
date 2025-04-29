@@ -1,0 +1,15 @@
+Source:,\\Jasonpc\e\KICAD\Piezo STEM Kit\Piezo STEM Kit.kicad_sch,,,,,,,,,,,
+Date:,3/31/2025 10:00,,,,,,,,,,,
+Tool:,Eeschema 7.0.9,,,,,,,,,,,
+Generator:,C:\Program Files\KiCad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value.py,,,,,,,,,,,
+Component Count:,10,,,,,,,,,,,
+,,,,,,,,,,,,
+Collated Components:,,,,,,,,,,,,
+,,,,,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,DNP,DESC,DIST,DIST_PN,MFG,MFG_PN
+1,2,"C1, C2",10UF,Piezo STEM Kit:C_TANT_10UF_1206,Piezo STEM Kit:CAP_TANT_1206,https://search.kemet.com/download/datasheet/T491A106M010AT,,CAP TANT 10UF 20% 10V 1206,DigiKey,399-3686-1-ND,KEMET,T491A106M010AT
+2,4,"D1, D2, D3, D4",40V,Piezo STEM Kit:Diode_Schottky_40V_SM,Piezo STEM Kit:SOD2512X115N,https://www.mccsemi.com/pdf/Products/B5817WS-B5819WS(SOD-323).PDF,,DIODE SCHOTTKY 40V 1A SOD323,DigiKey,B5819WS-TPMSCT-ND,Micro Commercial Co,B5819WS-TP
+3,1,D5,LED,Piezo STEM Kit:LED_White_0603,Piezo STEM Kit:LED_SM,https://www.inolux-corp.com/datasheet/Display/Through-Hole-Display/Round-Lamp/INL-3AX30%20series.pdf,,LED WHITE CLEAR 3MM T/H,Digi-Key,1830-1006-ND,Inolux,INL-3AW30
+4,1,PZ1,3V,Piezo STEM Kit:Piezo Buzzer,Piezo STEM Kit:Piezzo Buzzer_SM,https://product.tdk.com/en/system/files?file=dam/doc/product/sw_piezo/sw_piezo/piezo-buzzer/catalog/piezoelectronic_buzzer_ps_en.pdf,,BUZZER PIEZO 3V 12.2MM TH,DigiKey,445-2525-1-ND,TDK Corporation,PS1240P02BT
+5,1,R1,220 OHM,Piezo STEM Kit:R_220 OHM_1%_0603,Band-It:R_0603,https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf,,RES 330 OHM 1% 1/10W 0603,DigiKey,311-220HRCT-ND,YAGEO,RC0603FR-07220RL
+6,1,SW1,0.05A 12V,Piezo STEM Kit:Switch_Tactile,Piezo STEM Kit:SW_Tactile,https://configured-product-images.s3.amazonaws.com/Datasheets/TL59.pdf,,SWITCH TACTILE SPST-NO 0.05A 12V,DigiKey,EG4567CT-ND,E-Switch,TL59FF260Q
